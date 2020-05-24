@@ -1,0 +1,6 @@
+*{margin:0; padding:0;}
+body{height:2000px;position: relative;}
+.box {/*position:fixed; top:0; left:0;*/ width:700px; height:500px; background:pink;}   
+.contbox{height:700px; overflow-y:auto;}
+.cont{height:1000px;}
+.ss{background:red; height:1200px;}
